@@ -13,7 +13,7 @@
 <p>Este trabalho tem como objetivo construir um interpretador de proposições compostas</p><br>
 <p>Ao executar o programa, o usuário deve inserir como entrada uma fórmula com 1 conectivo</p>
 <br>
-<p>INSIRA UMA IMAGEM AQUI</p>
+<img src="https://github.com/akitodr/LogicaMatematica/blob/main/img/img1.png">
 <br>
 <p>Ao final o programa mostra o resultado da tabela verdade.</p>
 
@@ -29,10 +29,10 @@
 </ul>
 <br>
 <p>A descrição e regras do jogo foram apresentados assim:
-<p>INSIRA UMA IMAGEM AQUI</p>
+<img src="https://github.com/akitodr/LogicaMatematica/blob/main/img/img1.png">
 <br>
 <p>Ao executar o jogo é exibido a descrição e as regras:
-<p>INSIRA UMA IMAGEM AQUI</p>
+<img src="https://github.com/akitodr/LogicaMatematica/blob/main/img/img1.png">
 <br>
 <p>Por fim o resultado é mostrado:
-<p>INSIRA UMA IMAGEM AQUI</p>
+<img src="https://github.com/akitodr/LogicaMatematica/blob/main/img/img1.png">
